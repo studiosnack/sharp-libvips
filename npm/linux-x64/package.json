@@ -1,5 +1,5 @@
 {
-  "name": "@img/sharp-libvips-linux-x64",
+  "name": "@studiosnack/sharp-libvips-linux-x64",
   "version": "1.1.0",
   "description": "Prebuilt libvips and dependencies for use with sharp on Linux (glibc) x64",
   "author": "Lovell Fuller <npm@lovell.info>",
