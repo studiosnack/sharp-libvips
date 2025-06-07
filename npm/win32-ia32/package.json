@@ -1,5 +1,5 @@
 {
-  "name": "@img/sharp-libvips-win32-ia32",
+  "name": "@studiosnack/sharp-libvips-win32-ia32",
   "version": "1.1.0",
   "description": "Prebuilt libvips and dependencies for use with sharp on Windows x86",
   "author": "Lovell Fuller <npm@lovell.info>",
